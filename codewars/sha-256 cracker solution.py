@@ -7,3 +7,4 @@ def sha256_cracker(hash, chars):
             return x
         
     return None
+
